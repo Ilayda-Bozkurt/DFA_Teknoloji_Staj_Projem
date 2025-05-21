@@ -1,0 +1,20 @@
+[
+    {
+        "Fatura Tarihi": "20/04/2030",
+        "Toplam Tutar": "52800",
+        "Fatura No": "#1234567",
+        "Dosya Adı": "fatura1.png"
+    },
+    {
+        "Fatura Tarihi": "21-01-2032",
+        "Toplam Tutar": "360",
+        "Fatura No": "0123456789101",
+        "Dosya Adı": "fatura2.png"
+    },
+    {
+        "Fatura Tarihi": "04/12/2025",
+        "Toplam Tutar": "27730.00",
+        "Fatura No": "PRO2024",
+        "Dosya Adı": "fatura3.png"
+    }
+]
